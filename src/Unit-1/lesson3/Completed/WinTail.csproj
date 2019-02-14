@@ -55,6 +55,7 @@
   <ItemGroup>
     <Compile Include="ConsoleWriterActor.cs" />
     <Compile Include="ConsoleReaderActor.cs" />
+    <Compile Include="FileObserver.cs" />
     <Compile Include="Messages.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
